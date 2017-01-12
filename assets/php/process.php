@@ -16,7 +16,7 @@ $lastname = test_input($_POST["lastname"]);
 $email = test_input($_POST["email"]);
 $message = test_input($_POST["message"]);
 
-$EmailTo = "barton.pj@gmail.com";
+$EmailTo = "pat@localhost.localdomain";
 $Subject = "New Message Received";
 
 // prepare email body text
